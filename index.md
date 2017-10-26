@@ -1,5 +1,5 @@
 ---
-title: Me
+title: Junior Frontend Developer
 ---
 
 Hi, my name is Marina, I live in Russia.<br>
@@ -12,4 +12,4 @@ Twitter: https://twitter.com/healdementia<br>
 GitHub: https://github.com/healdementia/<br>
 VK: vk.com/healdementia<br>
 
-<p>Jekyll Minimalist by [Roman Zolotarev](https://www.romanzolotarev.com/)</p>
+<p>Jekyll Minimalist</p>
