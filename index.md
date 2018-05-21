@@ -8,7 +8,7 @@ I <3 what I do.<br>
 
 <h3>Thoughts mostly on the frontend</h3>
 
-[Frontend dev SVG toolkit](https://healdementia.github.io/front-end-dev-svg-toolkit)
+[Frontend dev SVG toolkit](https://healdementia.github.io/frontend-dev-svg-toolkit)
 
 <h3>Get in touch</h3>
 
