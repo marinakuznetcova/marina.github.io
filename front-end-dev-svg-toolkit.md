@@ -1,3 +1,7 @@
+---
+Front end dev SVG toolkit
+---
+
 So, imagine (or recall) you're a web developer. And you've got another PSD that you are to magically turn into a functioning interface. Among other cute stuff you see multiple icons, logos, animations - and you find out that all these nice pics are vector graphics.
 
 *Note: vector graphics is continuously, endlessly, infinitely scalable - that is the main reason why you should do your best to keep this attribute, pass it into the web and so export all vector graphics in vector format, i. e. SVG.*
