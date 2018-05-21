@@ -6,6 +6,10 @@ Hi, my name is Marina Kuznetsova, I live in Russia.<br>
 I am a frontend developer, eager to become a better one.<br>
 I <3 what I do.<br>
 
+<h3>Thoughts mostly on the frontend</h3>
+
+[Frontend dev SVG toolkit](https://healdementia.github.io/front-end-dev-svg-toolkit)
+
 <h3>Get in touch</h3>
 
 GitHub: <a href="https://github.com/healdementia/">healdementia</a><br>
