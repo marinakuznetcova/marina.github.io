@@ -1,8 +1,6 @@
-# Front end dev SVG toolkit: pt. I
-
 So, imagine (or recall) you're a web developer. And you've got another PSD that you are to magically turn into a functioning interface. Among other cute stuff you see multiple icons, logos, animations - and you find out that all these nice pics are vector graphics.
 
-> Note: vector graphics is continuously, endlessly, infinitely scalable - that is the main reason why you should do your best to keep this attribute, pass it into the web and so export all vector graphics in vector format, i. e. SVG.
+*Note: vector graphics is continuously, endlessly, infinitely scalable - that is the main reason why you should do your best to keep this attribute, pass it into the web and so export all vector graphics in vector format, i. e. SVG.*
 
 I am going to create kind of memo and list here a number of universal to-do things you can do with vector graphics in every other project. It needs slightly more time and deeper knowledge than to give up on users and all these modern technologies and just save each icon and logo as good old PNG. But I hope you're a true developer, curious and brave, ready to spend a bit more time and to know something new - at least for the sake of clean and beautiful Internet. But - let's finally cut to the chase!
 
@@ -25,3 +23,5 @@ Yep, usually it's a matter a few kilobytes, but in terms of SVG it can appear to
 ### What's next?
 
 Now you have a nice lightweight vector image you can use on the web freely! But there're still some things to consider before pushing your SVG into an <img> tag. This is what I'm going to discuss with you about in the pt. II.
+
+*21 May 2018*
