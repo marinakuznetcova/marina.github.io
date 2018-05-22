@@ -1,5 +1,5 @@
 ---
-title: Front end dev SVG toolkit
+title: Frontend dev SVG toolkit
 ---
 
 So, imagine (or recall) you're a web developer. And you've got another PSD that you are to magically turn into a functioning interface. Among other cute stuff you see multiple icons, logos, animations - and you find out that all these nice pics are vector graphics.
