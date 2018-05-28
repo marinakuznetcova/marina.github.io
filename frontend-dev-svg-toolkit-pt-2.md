@@ -1,5 +1,5 @@
 ---
-title: Frontend dev SVG toolkit: pt. II
+title: Frontend dev SVG toolkit. Pt. II
 ---
 
 I assume you've already got a pretty lightweight SVG with the code which is as clean as possible and pleases the eye. If you haven't - feel free to read the previous part of the article.
