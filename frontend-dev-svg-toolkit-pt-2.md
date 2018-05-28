@@ -31,6 +31,7 @@ To tell one point from the other you can read a quite detailed article here. SVG
 If there would be much SVG code in the HTML, the markup can easily become tangled, bulky and difficult to read. So first of all, if you are going to use, say, 5 or more pictures inside your markup, you should make a sprite. It's more handy and safe to do that automatically - here is a Gulp tool to help you out.
 
 *Yes (5 or more):* you'd better gather a sprite.
+
 *No (4 or less):* you can just insert the code where you need it.
 
 ### 4. Do you need to support old browsers (i.e. IE)?
