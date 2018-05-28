@@ -66,3 +66,7 @@ All you need to make SVG accessible is to add to its opening tag an ARIA attribu
 ```
 
 As simple as that!
+
+*28 May 2018*
+
+[home](https://healdementia.github.io/)
