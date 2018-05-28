@@ -8,7 +8,7 @@ So, what do you want to do with these fresh-baked SVG pics? There are few ways y
 
 ### 1. Is the image interactive?
 
-Interactive SVG is a fairly often use case as it almost always represents an icon or a logo – that is more than likely clickable. Sure thing, an interactive element of any user interface has to hint somehow about its interactivity. It can either simply change its color on hover or, for example, show-hide its part on click. Using PNG or any other raster format would force you to prepare two or more different images, upload all of them to your hosting and then use one for a default state, another for a hover, one more for a focus and maybe even the forth one for an active state. Sounds horrible, eh?
+Interactive SVG is a fairly often use case as it almost always represents an icon or a logo&mdash;that is more than likely clickable. Sure thing, an interactive element of any user interface has to hint somehow about its interactivity. It can either simply change its color on hover or, for example, show-hide its part on click. Using PNG or any other raster format would force you to prepare two or more different images, upload all of them to your hosting and then use one for a default state, another for a hover, one more for a focus and maybe even the forth one for an active state. Sounds horrible, eh?
 
 Meanwhile with SVG you would need the only one file! You're able to manage fill, stroke or visibility of the whole image or its parts. Just you would need to inline the SVG code right into the markup. So, is your image interactive?
 
@@ -18,7 +18,7 @@ Meanwhile with SVG you would need the only one file! You're able to manage fill,
 
 ### 2. Is the image a part of content, or a part of design?
 
-Design parts can be used as a background whereas content images should become individual elements in the markup. It's necessary for screen readers and search engines to "understand" all significant details of the content including pictures with filled "alt" attributes.
+Design parts can be used as a background whereas content images should become individual elements in the markup. It's necessary for screen readers and search engines to "understand" all significant details of the content including pictures with filled `alt` attributes.
 
 To tell one point from the other you can read [quite a detailed article here](https://pawelgrzybek.com/image-tag-vs-background-property/). SVG pictures rarely appear to be parts of content&mdash;unlike photos which are sometimes hard to refer to either content or design.
 
@@ -36,7 +36,7 @@ If there would be much SVG code in the HTML, the markup can easily become tangle
 
 ### 4. Do you need to support old browsers (i.e. IE)?
 
-Internet Explorer does not know what SVG is and seems to simply ignore it. Anyway it doesn't display anything unless you help it a little bit. There is a polyfill called [picturefill](http://scottjehl.github.io/picturefill/). It's a .js file which takes only 23Kb, but it does a huge work: makes IE display SVG properly.
+Internet Explorer does not know what SVG is and seems to simply ignore it. Anyway it doesn't display anything unless you help it a little bit. There is a polyfill called [picturefill](http://scottjehl.github.io/picturefill/). It's a .js file which takes only 23KB, but it does a huge work: makes IE display SVG properly.
 
 One more thing concerning Internet Explorer: if you're going to use a sprite in a separate file, don't. You'll have to insert the whole code of the sprite into the markup. Otherwise you won't be able to manage SVG properties such as fill in some old browsers. Not to make your HTML file look awkward at the development stage, use automation (such as Gulp [posthtml-include](https://www.npmjs.com/package/posthtml-include) plugin) in your project to paste the sprite code after you're done with your markup.
 
@@ -46,7 +46,7 @@ One more thing concerning Internet Explorer: if you're going to use a sprite in 
 
 ### 5. Should your code be as independent as possible?
 
-If you don't want to use or don't have a hosting to store an image, you can inline the SVG code into background-image CSS property. "data:image" syntax would help: recall base64 format. This way to use vector graphics lets a developer not to think about URLs and to reduce the number of HTTP requests. But! There is a negative side: a property like that is pretty "expensive" for a browser and would take much time to be processed. So be careful with this syntax and use it when only you really-really need it.
+If you don't want to use or don't have a hosting to store an image, you can inline the SVG code into background-image CSS property. `data:image` syntax would help: recall base64 format. This way to use vector graphics lets a developer not to think about URLs and to reduce the number of HTTP requests. But! There is a negative side: a property like that is pretty "expensive" for a browser and would take much time to be processed. So be careful with this syntax and use it when only you really-really need it.
 
 *Yes:* you could inline SVG code into background-image CSS property, but be careful.
 
