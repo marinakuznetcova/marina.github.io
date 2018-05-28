@@ -36,7 +36,7 @@ If there would be much SVG code in the HTML, the markup can easily become tangle
 
 ### 4. Do you need to support old browsers (i.e. IE)?
 
-Internet Explorer does not know what SVG is and seems to simply ignore it. Anyway it doesn't display anything unless you help it a little bit. There is a polyfill called [picturefill](http://scottjehl.github.io/picturefill/) - it's a .js file which takes only 23Kb. But it does a huge work: makes IE display SVG properly.
+Internet Explorer does not know what SVG is and seems to simply ignore it. Anyway it doesn't display anything unless you help it a little bit. There is a polyfill called [picturefill](http://scottjehl.github.io/picturefill/). It's a .js file which takes only 23Kb, but it does a huge work: makes IE display SVG properly.
 
 One more thing concerning Internet Explorer: if you're going to use a sprite in a separate file, don't. You'll have to insert the whole code of the sprite into the markup. Otherwise you won't be able to manage SVG properties such as fill in some old browsers. Not to make your HTML file look awkward at the development stage, use automation (such as Gulp [posthtml-include](https://www.npmjs.com/package/posthtml-include) plugin) in your project to paste the sprite code after you're done with your markup.
 
