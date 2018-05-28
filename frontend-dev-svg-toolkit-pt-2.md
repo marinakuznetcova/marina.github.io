@@ -2,7 +2,7 @@
 title: Frontend dev SVG toolkit. Pt. II
 ---
 
-I assume you've already got a pretty lightweight SVG with the code which is as clean as possible and pleases the eye. If you haven't - feel free to read the previous part of the article.
+I assume you've already got a pretty lightweight SVG with the code which is as clean as possible and pleases the eye. If you haven't - feel free to read [the previous part of the article](https://healdementia.github.io/frontend-dev-svg-toolkit).
 
 So, what do you want to do with these fresh-baked SVG pics? There are few ways you can embed vector images to your web page or app. Not to be confused with the methods of using SVG on the web at once I'd recommend you to ask yourself several questions before getting down to work.
 
@@ -20,7 +20,7 @@ Meanwhile with SVG you would need the only one file! You're able to manage fill,
 
 Design parts can be used as a background whereas content images should become individual elements in the markup. It's necessary for screen readers and search engines to "understand" all significant details of the content including pictures with filled "alt" attributes.
 
-To tell one point from the other you can read a quite detailed article here. SVG pictures rarely appear to be parts of content - unlike photos which are sometimes hard to refer to either content or design.
+To tell one point from the other you can read [quite a detailed article here](https://pawelgrzybek.com/image-tag-vs-background-property/). SVG pictures rarely appear to be parts of content - unlike photos which are sometimes hard to refer to either content or design.
 
 *Content:* insert an image into the markup using img tag or the SVG code itself.
 
@@ -28,7 +28,7 @@ To tell one point from the other you can read a quite detailed article here. SVG
 
 ### 3. Are there many pictures you're going to insert into the HTML as code?
 
-If there would be much SVG code in the HTML, the markup can easily become tangled, bulky and difficult to read. So first of all, if you are going to use, say, 5 or more pictures inside your markup, you should make a sprite. It's more handy and safe to do that automatically - here is a Gulp tool to help you out.
+If there would be much SVG code in the HTML, the markup can easily become tangled, bulky and difficult to read. So first of all, if you are going to use, say, 5 or more pictures inside your markup, you should make a sprite. It's more handy and safe to do that automatically - [here is a Gulp tool](https://github.com/healdementia/sprite) to help you out.
 
 *Yes (5 or more):* you'd better gather a sprite.
 
@@ -36,9 +36,9 @@ If there would be much SVG code in the HTML, the markup can easily become tangle
 
 ### 4. Do you need to support old browsers (i.e. IE)?
 
-Internet Explorer does not know what SVG is and seems to simply ignore it. Anyway it doesn't display anything unless you help it a little bit. There is a polyfill called picturefill - it's a .js file which takes only 23Kb. But it does a huge work - makes IE display SVG properly.
+Internet Explorer does not know what SVG is and seems to simply ignore it. Anyway it doesn't display anything unless you help it a little bit. There is a polyfill called [picturefill](http://scottjehl.github.io/picturefill/) - it's a .js file which takes only 23Kb. But it does a huge work - makes IE display SVG properly.
 
-One more thing concerning Internet Explorer: if you're going to use a sprite in a separate file, don't. You'll have to insert the whole code of the sprite into the markup. Otherwise you won't be able to manage SVG properties such as fill in some old browsers. Not to make your HTML file look awkward at the development stage, use automation (such as Gulp posthtml-include plugin) in your project to paste the sprite code after you're done with your markup.
+One more thing concerning Internet Explorer: if you're going to use a sprite in a separate file, don't. You'll have to insert the whole code of the sprite into the markup. Otherwise you won't be able to manage SVG properties such as fill in some old browsers. Not to make your HTML file look awkward at the development stage, use automation (such as Gulp [posthtml-include](https://www.npmjs.com/package/posthtml-include) plugin) in your project to paste the sprite code after you're done with your markup.
 
 *Yes:* add and link the picturefill.js file and insert the whole sprite code right into the markup.
 
@@ -52,7 +52,7 @@ If you don't want to use or don't have a hosting to store an image, you can inli
 
 *No:* use a method you like or need according to previous points.
 
-### 6. Don't forget about the accessibility!
+### 6. Don't forget the accessibility!
 
 I know, I know, it's not a question. But it's not something you should ask yourself or someone else about or doubt whether you need it or not. It's what every developer has to do, no matter if there is such a request or not.
 
