@@ -57,4 +57,77 @@
 
   <script>(function(src){var a=document.createElement("script");a.type="text/javascript";a.async=true;a.src=src;var b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b)})("https://sandbox.tinypass.com/xbuilder/experience/load?aid=XhyBnRgKNt");</script>
   
+  <script>
+
+    window.addEventListener("message", function(event) {
+      if (event.data.pianoData && event.data.pianoData.setCustomVariableCookie && event.data.pianoData.setCustomVariableCookie.name && event.data.pianoData.setCustomVariableCookie.name === "truex")  {
+        var url = location.origin + location.pathname;
+        var today = new Date();
+
+        if (localStorage.getItem("unlocks").length) {
+          var unlocks = JSON.parse(localStorage.getItem("unlocks"));
+        } else {
+          var unlocks = [];
+        }
+
+        var unlock = {
+          "url": url,
+          "added": today
+        };
+
+        unlocks.push(unlock);
+
+        console.log({event});
+        console.log("Message is received");
+
+        localStorage.setItem("unlocks", JSON.stringify(unlocks));
+        tp.offer.close();
+      }
+    });
+
+    tp = window.tp || [];
+
+    var checkTruexUnlock = function() {
+      if (localStorage.getItem("unlocks")) {
+        var unlocks = JSON.parse(localStorage.getItem("unlocks"));
+      } else {
+        var unlocks = [];
+      }
+
+      var unlocksCopy = [];
+      var url = location.origin + location.pathname;
+      var urlIsUnlocked = false;
+
+      console.log(unlocksCopy.length);
+
+      for (var i in unlocks) {
+        if (unlocks[i].url == url) {
+          urlIsUnlocked = true;
+          break;
+        }
+      }
+
+      for (var i in unlocks) {
+        var storageYear = new Date(unlocks[i].added).getFullYear();
+        var currentYear = new Date().getFullYear();
+        var storageMonth = new Date(unlocks[i].added).getMonth();
+        var currentMonth = new Date().getMonth();
+
+        if ((storageYear == currentYear) && (storageMonth == currentMonth)) {
+          unlocksCopy.push(unlocks[i]);
+        }
+      }
+
+      localStorage.setItem("unlocks", JSON.stringify(unlocksCopy));
+
+      tp.push(["setCustomVariable", "truexUnlocked", urlIsUnlocked + ""]);
+      tp.push(["setCustomVariable", "truexCount", unlocksCopy.length]);
+      tp.push(["setDebug", true]);
+    }
+
+    checkTruexUnlock();
+
+  </script>
+
+  
 </body>
