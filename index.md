@@ -2,18 +2,18 @@
 title: Frontend Developer
 ---
 
-Hi, my name is Marina Kuznetsova, I live in Russia.<br>
+Hi, my name is Marina Kuznetcova, I live in Russia.<br>
 I am a frontend developer, eager to become a better one.<br>
 I <3 what I do.<br>
 
 <h3>Thoughts mostly on the frontend</h3>
 
-[Frontend dev SVG toolkit. Pt. I](https://healdementia.github.io/frontend-dev-svg-toolkit)
+[Frontend dev SVG toolkit. Pt. I](/frontend-dev-svg-toolkit)
 
-[Frontend dev SVG toolkit. Pt. II](https://healdementia.github.io/frontend-dev-svg-toolkit-pt-2)
+[Frontend dev SVG toolkit. Pt. II](/frontend-dev-svg-toolkit-pt-2)
 
 <h3>Get in touch</h3>
 
-GitHub: <a href="https://github.com/healdementia/">healdementia</a><br>
+GitHub: <a href="https://github.com/marinakuznetcova">marinakuznetcova</a><br>
 Twitter: <a href="https://twitter.com/healdementia">@healdementia</a><br>
-Telegram: <a href="https://t.me/healdementia">@healdementia</a>
+Telegram: <a href="http://t.me/marinakuznetcova">@marinakuznetcova</a>
