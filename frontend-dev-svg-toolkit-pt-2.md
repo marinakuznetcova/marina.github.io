@@ -2,7 +2,7 @@
 title: Frontend dev SVG toolkit. Pt. II
 ---
 
-I assume you've already got a pretty lightweight SVG with the code which is as clean as possible and pleases the eye. If you haven't&mdash;feel free to read [the previous part of the article](https://healdementia.github.io/frontend-dev-svg-toolkit).
+I assume you've already got a pretty lightweight SVG with the code which is as clean as possible and pleases the eye. If you haven't&mdash;feel free to read [the previous part of the article](/frontend-dev-svg-toolkit).
 
 So, what do you want to do with these fresh-baked SVG pics? There are few ways you can embed vector images to your web page or app. Not to be confused with the methods of using SVG on the web at once I'd recommend you to ask yourself several questions before getting down to work.
 
@@ -28,7 +28,7 @@ To tell one point from the other you can read [quite a detailed article here](ht
 
 ### 3. Are there many pictures you're going to insert into the HTML as code?
 
-If there would be much SVG code in the HTML, the markup can easily become tangled, bulky and difficult to read. So first of all, if you are going to use, say, 5 or more pictures inside your markup, you should make a sprite. It's more handy and safe to do that automatically: [here is a Gulp tool](https://github.com/healdementia/sprite) to help you out.
+If there would be much SVG code in the HTML, the markup can easily become tangled, bulky and difficult to read. So first of all, if you are going to use, say, 5 or more pictures inside your markup, you should make a sprite. It's more handy and safe to do that automatically: [here is a Gulp tool](https://github.com/marinakuznetcova/sprite) to help you out.
 
 *Yes (5 or more):* you'd better gather a sprite.
 
@@ -71,4 +71,4 @@ As simple as that!
 
 *28 May 2018*
 
-[home](https://healdementia.github.io/)
+[home](/index)
