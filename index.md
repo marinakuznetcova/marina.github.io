@@ -14,6 +14,6 @@ I <3 what I do.<br>
 
 <h3>Get in touch</h3>
 
+Twitter: <a href="https://twitter.com/mrnkzntcv">@mrnkzntcv</a><br>
 GitHub: <a href="https://github.com/marinakuznetcova">marinakuznetcova</a><br>
-Twitter: <a href="https://twitter.com/healdementia">@healdementia</a><br>
 Telegram: <a href="http://t.me/marinakuznetcova">@marinakuznetcova</a>
