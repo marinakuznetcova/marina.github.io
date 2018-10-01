@@ -8,9 +8,9 @@ I <3 what I do.<br>
 
 <h3>Thoughts mostly on the frontend</h3>
 
-[Frontend dev SVG toolkit. Pt. I](/frontend-dev-svg-toolkit)
-
-[Frontend dev SVG toolkit. Pt. II](/frontend-dev-svg-toolkit-pt-2)
+- [Frontend dev SVG toolkit. Pt. I](/frontend-dev-svg-toolkit)
+- [Frontend dev SVG toolkit. Pt. II](/frontend-dev-svg-toolkit-pt-2)
+- [A forgotten thing about the accessibility which matters](/a-forgotten-thing-about-the-accessibility-which-matters)
 
 <h3>Get in touch</h3>
 
