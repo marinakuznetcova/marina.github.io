@@ -12,7 +12,7 @@ I have an example before my eyes of an interface which could be improved, and I'
 
 Why could one need a send button, you think? Well, my mom needs it. And I'm sure she's not but one who does. You see, the only way to send a message in Messages is to press the Enter key. It is very accessible for guys who are blind or who rather use a keyboard instead of a mouse, no doubt. But the Enter key is located on the very right side of a keyboard. It is fairly big and easy to be hit by your little finger. But not for everyone. For a person who is lying down all the time it is a challenge to make the whole way through the keyboard with their left hand. But the trackpad is much nearer and faster to reach than the Enter key.
 
-![Alt text](/img/enter-button.jpg)
+![Alt text](/img/enter-button.png)
 
 Unlike Apple Messages, Telegram and WhatsApp desktop applications, to my surprise again, do have a send button which shows up once you start typing. And before you start, there is a mic icon instead by clicking which one can record a voice message. But if you begin entering something in the text field, it gets replaced with a send button. It seems so logical to me, that I would call it a perfect UI.
 
