@@ -4,11 +4,11 @@ title: A forgotten thing about the&nbsp;accessibility which matters, or A&nbsp;s
 
 We've got used to the idea that the accessibility concerns (a) non-sighted people ability to use an interface or (b) ordinary people convenience to use it. We've got used to take care about an interface to be accessible from a keyboard and a screen-reader and other imaginable and unimaginable input devices. But this idea overlooks a significant point. There're so many people on the Earth that among them there're users who need the most typical care we tend to forget about. A send button.
 
-Now picture a person who can only lie down on their belly. A person who barely moves but still wants to watch Netflix series, read NBA news, call friends, study foreign languages, and chat. A person who has their Macbook as the only means to connect with the rest of the world. They have only a left hand to manage all this computer stuff and not that much strength in it but really limited capacity. A bit more in the morning, but as the day is getting into the evening there's almost nothing left.
+Now picture a person who can only lie down on their belly. A person who barely moves but still wants to watch Netflix series, read NBA news, call friends, study foreign languages, and chat. A person who has their MacBook as the only means to connect with the rest of the world. They have only a left hand to manage all this computer stuff and not that much strength in it but really limited capacity. A bit more in the morning, but as the day is getting into the evening there's almost nothing left.
 
 Do you think I'm fabricating this situation for the sake of an abstract reflection? I'd be happy it would be a fabrication. But there are guys with multiple sclerosis and other motor disabilities out there, like my mom. And unfortunately this story is a real one. They are either too shy to require something or they don't simply think it's possible to make things more convenient. But it is possible.
 
-I have an example before my eyes of an interface which could be improved, and I've been waiting for quite a long while for it to be improved. But still nothing has changed. This example surprises me pretty much. What I'm speaking about is Apple Messages desktop app. It has no send button. I haven't tried to contact anyone from Apple yet, hoping silently, as Apple usually care about things like that.
+I have an example before my eyes of an interface which could be improved, and I've been waiting for quite a long while for it to be improved. But still nothing has changed. This example surprises me pretty much. What I'm speaking about is Messages for Mac. It has no send button. I haven't tried to contact anyone from Apple yet, hoping silently, as Apple usually care about things like that.
 
 Why could one need a send button, you think? Well, my mom needs it. And I'm sure she's not but one who does. You see, the only way to send a message in Messages is to press the Enter key. It is very accessible for guys who are blind or who rather use a keyboard instead of a mouse, no doubt. But the Enter key is located on the very right side of a keyboard. It is fairly big and easy to be hit by your little finger. But not for everyone. For a person who is lying down all the time it is a challenge to make the whole way through the keyboard with their left hand. But the trackpad is much nearer and faster to reach than the Enter key.
 
@@ -28,4 +28,4 @@ As designers or developers, we should think of everybody who could possibly use 
 
 *01 October 2018*
 
-[&larr; home](/index)
+[&larr; home](/)

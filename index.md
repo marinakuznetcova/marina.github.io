@@ -15,8 +15,7 @@ From time to time I write here what I'm concerned about.
 
 <h3>Get in touch</h3>
 
-If you have something to say. If you want to see what I do.<br>
-If you're simply curious. Feel free. Always.
+If you have something to say. If you want to see what I do. If you're simply curious. Feel free. Always.
 
 Twitter: <a href="https://twitter.com/mrnkzntcv">@mrnkzntcv</a><br>
 GitHub: <a href="https://github.com/marinakuznetcova">marinakuznetcova</a><br>

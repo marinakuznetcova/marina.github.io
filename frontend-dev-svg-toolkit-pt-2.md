@@ -71,4 +71,4 @@ As simple as that!
 
 *28 May 2018*
 
-[&larr; home](/index)
+[&larr; home](/)

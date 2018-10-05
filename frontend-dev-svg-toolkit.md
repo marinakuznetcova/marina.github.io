@@ -30,4 +30,4 @@ Now you have a nice lightweight vector image you can use on the web freely! But 
 
 *21 May 2018*
 
-[&larr; home](/index)
+[&larr; home](/)
