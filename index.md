@@ -1,12 +1,13 @@
 ---
-title: Frontend Developer
+title: Hi, my name is Marina&nbsp;Kuznetcova
 ---
 
-Hi, my name is Marina Kuznetcova, I live in Russia.<br>
-I am a frontend developer, eager to become a better one.<br>
-I <3 what I do.<br>
+I am a frontend developer, eager to become a better one. I <3 what I do.<br>
+Currently I'm working at [Piano](https://piano.io). What I like the most about my job is that I'm crafting things people will use. I like thinking about how they'd do it, and making their trip as comfortable and joyful as I can.
 
-<h3>Thoughts mostly on the frontend</h3>
+<h3>Thoughts on the web, the life, the love</h3>
+
+From time to time I write here what I'm concerned about.
 
 - [Frontend dev SVG toolkit. Pt. I](/frontend-dev-svg-toolkit)
 - [Frontend dev SVG toolkit. Pt. II](/frontend-dev-svg-toolkit-pt-2)
@@ -14,6 +15,13 @@ I <3 what I do.<br>
 
 <h3>Get in touch</h3>
 
+If you have something to say.
+If you want to see what I do.
+If you're simply curious.
+Feel free. Always.
+
 Twitter: <a href="https://twitter.com/mrnkzntcv">@mrnkzntcv</a><br>
 GitHub: <a href="https://github.com/marinakuznetcova">marinakuznetcova</a><br>
 Telegram: <a href="http://t.me/marinakuznetcova">@marinakuznetcova</a>
+
+Be good.
