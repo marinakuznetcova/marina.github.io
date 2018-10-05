@@ -1,6 +1,8 @@
 ---
-title: A forgotten thing about the&nbsp;accessibility which matters
+title: A forgotten thing about the&nbsp;accessibility which matters, or A&nbsp;story about a&nbsp;button which doesn't exist
 ---
+
+![Alt text](/img/enter-button.jpeg)
 
 We've got used to the idea that the accessibility concerns (a) non-sighted people ability to use an interface or (b) ordinary people convenience to use it. We've got used to take care about an interface to be accessible from a keyboard and a screen-reader and other imaginable and unimaginable input devices. But this idea overlooks a significant point. There're so many people on the Earth that among them there're users who need the most typical care we tend to forget about. A send button.
 
