@@ -28,4 +28,4 @@ As designers or developers, we should think of everybody who could possibly use 
 
 *01 October 2018*
 
-[home](/index)
+[&larr; home](/index)
