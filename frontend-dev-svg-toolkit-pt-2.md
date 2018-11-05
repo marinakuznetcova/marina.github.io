@@ -1,5 +1,3 @@
-[&larr; home](/)
-
 ---
 title: Frontend dev SVG toolkit. Pt.&nbsp;II
 ---

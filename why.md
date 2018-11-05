@@ -1,8 +1,8 @@
-[&larr; home](/)
-
 ---
 title: Why I'm here and why I do what I do
 ---
+
+[&larr; home](/)
 
 Perhaps it sounds too absract but I do believe everyone'd better be aware of reasons for doing anything. As deep as possible. They say, when you reach a certain depth you reveal that there has been nothing in the very core all this time. Maybe. Or no. But anyway, until you go that deep you won't know and won't even be able to embrace this idea. So until then, let us have some why's and because's. Let us ask ourselves whether what's going on suits us.
 

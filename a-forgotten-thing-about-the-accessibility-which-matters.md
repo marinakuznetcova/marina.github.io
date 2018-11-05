@@ -1,5 +1,3 @@
-[&larr; home](/)
-
 ---
 title: A forgotten thing about the&nbsp;accessibility which matters, or A&nbsp;story about a&nbsp;button which doesn't exist
 ---
