@@ -3,7 +3,7 @@ title: Hi, my name is Marina&nbsp;Kuznetcova
 ---
 
 I am a frontend developer. I `<3` what I do.<br>
-Currently I'm working at [Piano](https://piano.io). What I like the most about my job is that I'm crafting things people will use. I like thinking about how they'd do it, and making their trip as comfortable and joyful as I can.
+Currently I'm working at [Piano](https://piano.io). What I like the most about my job is that I'm crafting things people will use. I like thinking about how they'd do it, and making their trip as comfortable and joyful as I can, and [here's why](/why).
 
 <h3>Thoughts on the web, the life, the love</h3>
 
