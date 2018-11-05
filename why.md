@@ -15,3 +15,6 @@ Another reason to be here is making things people will use right away. I try to 
 Also, my job doesn't bring any damage to the outer world, it's totally safe and eco-friendly.
 
 In the end, as [Roman](https://www.romanzolotarev.com/) says, "I'm having fun".
+
+
+[&larr; home](/)
