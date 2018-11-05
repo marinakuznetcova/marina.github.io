@@ -1,3 +1,5 @@
+[&larr; home](/)
+
 ---
 title: Why I'm here and why I do what I do
 ---

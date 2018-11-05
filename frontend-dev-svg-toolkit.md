@@ -1,3 +1,5 @@
+[&larr; home](/)
+
 ---
 title: Frontend dev SVG toolkit
 ---
@@ -27,6 +29,7 @@ Yep, usually it's a matter a few kilobytes, but in terms of SVG it can appear to
 ### What's next?
 
 Now you have a nice lightweight vector image you can use on the web freely! But there're still some things to consider before pushing your SVG into an `img` tag. This is what I'm going to discuss with you in the [pt. II](/frontend-dev-svg-toolkit-pt-2).
+
 
 *21 May 2018*
 

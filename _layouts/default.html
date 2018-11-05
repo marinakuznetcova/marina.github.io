@@ -2,16 +2,41 @@
 <html>
 <head><title>{{ page.title }}</title></head>
 <style>
-  @import url('https://rsms.me/inter/inter-ui.css');
+  /* @import url("https://rsms.me/inter/inter-ui.css"); */
+  @font-face {
+    font-family: "Inter UI Regular";
+    src: url("fonts/inter-ui-regular.woff2") format("woff2"),
+         url("fonts/inter-ui-regular.woff") format("woff");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: "Inter UI Italic";
+    src: url("fonts/inter-ui-italic.woff2") format("woff2"),
+         url("fonts/inter-ui-italic.woff") format("woff");
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: "Inter UI Black";
+    src: url("fonts/inter-ui-black.woff2") format("woff2"),
+         url("fonts/inter-ui-black.woff") format("woff");
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+  }
   a { color: #006da5; }
   a:hover { color: #000000; }
-  body { font-size: 1.2em; line-height: 1.6em; margin: 4em auto; max-width: 560px; width: 90%; font-family: "Inter UI", "Helvetica", sans-serif; }
-  h1, h2, h3 { line-height: 1.1em; margin-top: 2em; }
-  h1 { font-weight: 900; }
-  h2, h3 { font-weight: 700; }
+  body { font-size: 1.2em; line-height: 1.6em; margin: 4em auto; max-width: 560px; width: 90%; font-family: "Inter UI Regular", "Helvetica", sans-serif;
+         -webkit-font-feature-settings: 'calt' 1, 'zero' 1;
+         font-feature-settings: 'calt' 1, 'zero' 1; }
+  h1, h2, h3 { font-family: "Inter UI Black", "Helvetica", sans-serif; font-weight: 900; line-height: 1.1em; margin-top: 2em; }
   h1 { background-color: #caf9ff; }
   pre, code { font-size: .9em; font-family: "Monaco", "Courier New", monospace; }
   pre { overflow-x: auto; margin: 0 0 2em 0; }
+  em { font-family: "Inter UI Italic", "Helvetica", sans-serif; font-style: italic; }
   img { max-width: 100%; height: auto; }
 </style>
 <meta name="viewport" content="width=device-width, initial-scale=1">
