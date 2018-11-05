@@ -2,6 +2,8 @@
 title: A forgotten thing about the&nbsp;accessibility which matters, or A&nbsp;story about a&nbsp;button which doesn't exist
 ---
 
+[&larr; home](/)
+
 We've got used to the idea that the accessibility concerns (a) non-sighted people ability to use an interface or (b) ordinary people convenience to use it. We've got used to take care about an interface to be accessible from a keyboard and a screen-reader and other imaginable and unimaginable input devices. But this idea overlooks a significant point. There're so many people on the Earth that among them there're users who need the most typical care we tend to forget about. A send button.
 
 Now picture a person who can only lie down on their belly. A person who barely moves but still wants to watch Netflix series, read NBA news, call friends, study foreign languages, and chat. A person who has their MacBook as the only means to connect with the rest of the world. They have only a left hand to manage all this computer stuff and not that much strength in it but really limited capacity. A bit more in the morning, but as the day is getting into the evening there's almost nothing left.
@@ -26,7 +28,7 @@ In the end, it is good. But we should be aware of the fact that it's necessary n
 
 As designers or developers, we should think of everybody who could possibly use our interfaces. We don't have a right to take anything from them. We must provide our users with any means of interacting with a website or an app. We might believe that it's more convenient and quick to use shortcuts instead of a trackpad, or voice commands instead of a mouse, or gestures instead of a joystick. There are many input devices, and their number is growing with every year. But we should admit that perhaps we cannot foresee each case our interface is going to be used in, and we need to keep the most native and obvious ones accessible&mdash;at least. Some of us prefer one means over another because of the convenience; some of us simply have no choice.
 
-
+<br>
 *01 October 2018*
 
 [&larr; home](/)

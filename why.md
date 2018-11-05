@@ -18,5 +18,5 @@ Also, my job doesn't bring any damage to the outer world, it's totally safe and 
 
 In the end, as [Roman](https://www.romanzolotarev.com/) says, "I'm having fun".
 
-
+<br>
 [&larr; home](/)

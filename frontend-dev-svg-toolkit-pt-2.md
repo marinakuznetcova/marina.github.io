@@ -2,6 +2,8 @@
 title: Frontend dev SVG toolkit. Pt.&nbsp;II
 ---
 
+[&larr; home](/)
+
 I assume you've already got a pretty lightweight SVG with the code which is as clean as possible and pleases the eye. If you haven't&mdash;feel free to read [the previous part of the article](/frontend-dev-svg-toolkit).
 
 So, what do you want to do with these fresh-baked SVG pics? There are few ways you can embed vector images to your web page or app. Not to be confused with the methods of using SVG on the web at once I'd recommend you to ask yourself several questions before getting down to work.
@@ -69,7 +71,7 @@ All you need to make SVG accessible is to add to its opening tag an ARIA attribu
 
 As simple as that!
 
-
+<br>
 *28 May 2018*
 
 [&larr; home](/)
