@@ -12,6 +12,7 @@ From time to time I write here what I'm concerned about.
 - [Frontend dev SVG toolkit. Pt. I](/frontend-dev-svg-toolkit)
 - [Frontend dev SVG toolkit. Pt. II](/frontend-dev-svg-toolkit-pt-2)
 - [A forgotten thing about the accessibility which matters](/a-forgotten-thing-about-the-accessibility-which-matters)
+- [Codevember 2018 for the first time. A waste or a priceless gift?](/codevember-2018)
 
 <h3>Get in touch</h3>
 
