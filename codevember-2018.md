@@ -18,6 +18,8 @@ I chose the stack: plain HTML and CSS. I chose the style: simplified forms, funn
 
 So... Was it hard? Hell yeah. It was not about my pens creation itself, but rather about keeping up all the time. Every day, either after full-time working day, or on the weekend you have to do this. Yes, it was astonishing, it felt really awesome to think up a new "plot", to figure out how to "draw" it and make it move, to enjoy the result eventually. But damn, every day. To stick to it more securely I tweeted a new pen every day, it helped a lot. People I didn't know left comments on Twitter, liked my works on Codepen&mdash;this was heating up my will to go to the end, so I thank everyone who did it one way or another.
 
+![Enter button](/img/collection.jpg)
+
 But let's get closer to the point, what was the real profit of it all?
 
 1. Life experience points. Really, challenges like this give us something one cannot buy or earn in any other way. However simple your pens are, they're worth being created each day, for a whole month. You prove yourself at least that you can keep the pace that long. If you can do this in terms of coding, you will be able to do this in any other terms. It's applicable to our life in general.
