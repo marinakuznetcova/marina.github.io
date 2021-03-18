@@ -1,5 +1,5 @@
 ---
-title: Hi, my name is Marina&nbsp;Kuznetcova
+title: Hi, my name is Marina
 ---
 
 I am a frontend developer. I `<3` what I do.<br>
@@ -18,8 +18,8 @@ From time to time I write here what I'm concerned about.
 
 If you have something to say. If you want to see what I do. If you're simply curious. Feel free. Always.
 
-Twitter: <a href="https://twitter.com/mrnkzntcv">@mrnkzntcv</a><br>
-GitHub: <a href="https://github.com/marinakuznetcova">marinakuznetcova</a><br>
-Telegram: <a href="http://t.me/marinakuznetcova">@marinakuznetcova</a>
+Twitter: <a href="https://twitter.com/mrnptrv">@mrnptrv</a><br>
+GitHub: <a href="https://github.com/mrnptrv">mrnptrv</a><br>
+CodePen: <a href="https://codepen.io/marinapetrova">marinapetrova</a><br>
 
 Be good.
